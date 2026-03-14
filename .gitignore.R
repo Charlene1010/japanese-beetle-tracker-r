@@ -1,4 +1,0 @@
-renv/library/
-  .Rproj.user/
-  .Rhistory
-*.Rproj
