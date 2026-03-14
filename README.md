@@ -2,7 +2,7 @@
 
 An interactive Shiny for R dashboard tracking Japanese Beetle (*Popillia japonica*) sightings across North America, based on GBIF occurrence data.
 
-🔗 [Live App]([https://your-posit-cloud-link-here](https://connect.posit.cloud/charlene1010/content/019cec35-76dd-9dfb-ef83-064ad9293480))
+🔗 [Live App](https://connect.posit.cloud/charlene1010/content/019cec35-76dd-9dfb-ef83-064ad9293480)
 
 ## Features
 
